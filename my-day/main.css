@@ -1,0 +1,32 @@
+body {
+  margin-left: 25px;
+}
+
+ul {
+  padding-left: 0;
+  /* list-style-type: none; */
+}
+
+li {
+  list-style: none;
+}
+
+.morning {
+  font-weight: bold;
+}
+
+.afternoon {
+  font-style: italic;
+}
+
+#morning_head {
+  color: black;
+}
+
+#afternoon_head {
+  color: blue;
+}
+
+#evening_head {
+  color:purple;
+}
